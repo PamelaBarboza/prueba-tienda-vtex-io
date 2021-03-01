@@ -32,5 +32,10 @@
       "product-identifier.summary",
       "add-to-cart-button"
     ]
+  },
+  "add-to-cart-button":{
+    "props":{
+      "text": "Lo quiero!"
+    }
   }
 }
